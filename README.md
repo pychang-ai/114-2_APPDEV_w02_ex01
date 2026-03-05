@@ -2,3 +2,6 @@
 
 ## Name: Smith
 ## SID: C111111
+
+## EX03 Screenshot
+![screenshot]()
